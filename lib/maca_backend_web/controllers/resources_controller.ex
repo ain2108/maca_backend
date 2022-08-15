@@ -7,6 +7,7 @@ defmodule MacaBackendWeb.ResourcesController do
       %{title: "Salka Valka", category: "Books"},
       %{title: "Train to Busan", category: "Films"},
       %{title: "Children of Nature", category: "Films"},
+      %{title: "Shrek", category: "Films"},
       %{
         title:
           "https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/",
