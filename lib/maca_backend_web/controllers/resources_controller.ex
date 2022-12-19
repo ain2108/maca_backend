@@ -5,7 +5,10 @@ defmodule MacaBackendWeb.ResourcesController do
     resources = [
       %{title: "Disco Elysium", category: "Games"},
       %{title: "Salka Valka", category: "Books"},
+      %{title: "Independent People", category: "Books"},
       %{title: "Train to Busan", category: "Films"},
+      %{title: "Triangle of Sadness", category: "Films"},
+      %{title: "The Worst Person in the World", category: "Films"},
       %{title: "Children of Nature", category: "Films"},
       %{title: "Shrek", category: "Films"},
       %{
